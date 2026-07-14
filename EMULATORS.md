@@ -57,3 +57,4 @@
 | [Boytacean](https://github.com/joamag/boytacean) | Rust | A Game Boy emulator that is written in Rust, with a beautiful Web interface that makes use of WASM. |
 | [Gameboy](https://github.com/raphamorim/gameboy) | Rust | Game Boy emulator written in Rust that runs as a desktop application or in the browser through WebAssembly |
 | [MagenBoy](https://github.com/alloncm/MagenBoy) | Rust | Cross-platform GB & GBC emulator with support for bare-metal RaspberryPi with custom hardware |
+| [hazelnut-gb-emu](https://github.com/atifcodesalot/hazelnut-gb-emu) | Python | Cross platform, inaccurate and slow performance, but improving and awesome emulator done via pygame! Runs most commercial games. |
